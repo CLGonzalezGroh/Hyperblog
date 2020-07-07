@@ -5,4 +5,4 @@
 
 **En el curso aprendimos:**
 - Git
-- Git Hub
+- GitHub
